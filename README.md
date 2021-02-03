@@ -4,11 +4,13 @@
 ```
 npm install
 ```
+npm install -g json-server
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+npm run generate
 
 ### Compiles and minifies for production
 ```
